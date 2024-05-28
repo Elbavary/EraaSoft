@@ -1,0 +1,14 @@
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\EraaSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\EraaSoft.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\EraaSoft.AssemblyInfo.cs
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\EraaSoft.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\bin\Debug\net8.0\EraaSoft.exe
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\bin\Debug\net8.0\EraaSoft.deps.json
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\bin\Debug\net8.0\EraaSoft.runtimeconfig.json
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\bin\Debug\net8.0\EraaSoft.dll
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\bin\Debug\net8.0\EraaSoft.pdb
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\EraaSoft.dll
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\refint\EraaSoft.dll
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\EraaSoft.pdb
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\EraaSoft.genruntimeconfig.cache
+C:\Users\khale\source\repos\EraaSoft\EraaSoft\obj\Debug\net8.0\ref\EraaSoft.dll
